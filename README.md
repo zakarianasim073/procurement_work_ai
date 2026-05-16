@@ -1,17 +1,45 @@
-# procurement_work_ai
-tender Procurement documents preparation 
- Corporate Tender Automation System vAI BOQ Analysis V Al Reports V Dashboard Analytics V Free Deployment V GitHub Production Repository V Scalable Saas Foundation 
-I created the full corporate MVP deployment guide with: 
-production folder structure 
-FastAPI backend code 
-Next.js frontend starter 
-·OCR engine 
-AI BOQ rate analysis 
-PDF report generation 
-Supabase setup 
-GitHub deployment 
-Render deployment 
-Vercel deployment 
-Ollama Al integration 
-production workfloW
-& future development plans..
+# Procurement Work AI
+
+Enterprise AI-powered Tender Automation Platform.
+
+## Features
+- Tender PDF Upload
+- OCR Extraction
+- BOQ Extraction
+- AI BOQ Rate Analysis
+- Compliance Checking
+- AI Report Generation
+- Dashboard Analytics
+- Export to PDF/Excel
+
+## Technology Stack
+
+### Frontend
+- Next.js
+- Tailwind CSS
+- ShadCN UI
+
+### Backend
+- FastAPI
+- PaddleOCR
+- PyMuPDF
+- Pandas
+
+### AI
+- Ollama
+- Llama3 / DeepSeek
+
+### Database
+- Supabase PostgreSQL
+
+## Deployment
+- Frontend → Vercel
+- Backend → Render
+- Database → Supabase
+
+## Roadmap
+- Multi-user authentication
+- Tender intelligence engine
+- AI proposal generation
+- Vendor analytics
+- ERP integration
