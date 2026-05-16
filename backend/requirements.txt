@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+paddleocr
+paddlepaddle
+pymupdf
+pdfplumber
+pandas
+openpyxl
+psycopg2-binary
+sqlalchemy
+python-dotenv
+reportlab
+supabase
+requests
